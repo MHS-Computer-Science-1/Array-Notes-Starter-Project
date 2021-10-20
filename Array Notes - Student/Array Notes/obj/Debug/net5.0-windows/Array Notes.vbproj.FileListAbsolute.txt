@@ -1,0 +1,36 @@
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.exe
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.deps.json
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.runtimeconfig.json
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.runtimeconfig.dev.json
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.dll
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\ref\Array Notes.dll
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.pdb
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array_Notes.Resources.resources
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.AssemblyInfo.vb
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.dll
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\ref\Array Notes.dll
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.pdb
+C:\Users\foxrw\source\repos\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.genruntimeconfig.cache
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.exe
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.deps.json
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.runtimeconfig.json
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.runtimeconfig.dev.json
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\ref\Array Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\bin\Debug\net5.0-windows\Array Notes.pdb
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.vbprojAssemblyReference.cache
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array_Notes.Form1.resources
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array_Notes.Resources.resources
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\ref\Array Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.pdb
+G:\My Drive\Courses\CS1\08 Arrays\Array Notes\Array Notes\obj\Debug\net5.0-windows\Array Notes.genruntimeconfig.cache
