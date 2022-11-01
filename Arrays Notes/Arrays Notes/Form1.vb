@@ -130,12 +130,14 @@
         Dim myArray(2, 3) As Integer '3 rows, 4 cols
         'myArray:  0 0 0 0
         '          0 0 0 0
+        '          0 0 0 0
 
         'Access the elements using a row # and col #
 
 
         'myArray:  5 0 0 0
         '          0 0 0 1
+        '          0 0 0 0
 
         'Try it: Set the top-right corner and bottom left
         'corner to 3 and 7 respectively
@@ -148,14 +150,9 @@
 
         'myArray:  10 10 10 10
         '          10 10 10 10
+        '          10 10 10 10
 
     End Sub
-
-
-
-
-
-
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
         PictureBox1.Image = My.Resources.Bubble_sort_example_300px
