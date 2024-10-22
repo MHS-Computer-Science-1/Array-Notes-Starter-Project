@@ -159,7 +159,7 @@
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
         'Create a 2-d array
-        Dim myArray(2, 3) As Integer '3 rows, 4 cols
+        Dim myArray(1, 3) As Integer '2 rows, 4 cols
         'myArray:  0 0 0 0
         '          0 0 0 0
 
