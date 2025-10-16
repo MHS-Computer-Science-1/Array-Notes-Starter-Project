@@ -1,0 +1,28 @@
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays_Notes.Form1.resources
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays_Notes.Resources.resources
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.vbproj.GenerateResource.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.AssemblyInfoInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.AssemblyInfo.vb
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.vbproj.CoreCompileInputs.cache
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\refint\Arrays Notes.dll
+G:\My Drive\Courses\CS1\08 Arrays\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.pdb
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\bin\Debug\net8.0-windows7.0\Arrays Notes.exe
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\bin\Debug\net8.0-windows7.0\Arrays Notes.deps.json
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\bin\Debug\net8.0-windows7.0\Arrays Notes.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\bin\Debug\net8.0-windows7.0\Arrays Notes.dll
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\bin\Debug\net8.0-windows7.0\Arrays Notes.pdb
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays_Notes.Form1.resources
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays_Notes.Resources.resources
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.sourcelink.json
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.dll
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\refint\Arrays Notes.dll
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.pdb
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\Arrays Notes.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Array-Notes-Starter-Project\Arrays Notes\Arrays Notes\obj\Debug\net8.0-windows7.0\ref\Arrays Notes.dll
